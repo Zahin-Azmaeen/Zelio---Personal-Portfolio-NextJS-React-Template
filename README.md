@@ -16,7 +16,7 @@
 ![Screenshots](https://github.com/Zahin-Azmaeen/Zelio---Personal-Portfolio-NextJS-React-Template/blob/8524c9e5612fe7b4766aa256710808544baf7ba5/Meisa.png)
 ![Screenshots](https://github.com/Zahin-Azmaeen/Zelio---Personal-Portfolio-NextJS-React-Template/blob/8524c9e5612fe7b4766aa256710808544baf7ba5/William.png)
 
-** MAIN FEATURES **
+## MAIN FEATURES ##
 
 * Layer Styles: Easily customizable layer styles provide flexibility in design adaptation, allowing you to effortlessly match
 * Bootstrap Framework: Rapidly build modern websites without ever leaving your HTML.
